@@ -63,7 +63,7 @@ r2=metrics.r2_score(y_test,y_pred)
 r2
 dt.predict([[5,6]])
 ~~~
-
+~~~
 ## Output:
 <img width="260" height="215" alt="image" src="https://github.com/user-attachments/assets/0f19640a-e78d-455e-a563-dcb5c6385784" />
 <img width="163" height="91" alt="image" src="https://github.com/user-attachments/assets/971ae1a6-5f34-4f93-9d80-574235ffd9de" />
@@ -75,7 +75,7 @@ dt.predict([[5,6]])
 <img width="248" height="34" alt="image" src="https://github.com/user-attachments/assets/34e6a298-ace4-45dc-992b-ccbb069a20a4" />
 #ACCURACY 
 <img width="239" height="31" alt="image" src="https://github.com/user-attachments/assets/bc16e9b5-9b1a-464b-9db2-0d4fd10b73cb" />
-
+~~~
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
